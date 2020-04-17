@@ -32,20 +32,9 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-	  <script>
-	    function btnChecker() {
-	      if(!location.href.includes("Pages"){ 
-	        <a href="/" class="btn">Home</a>
-	        <a href="Pages/Projects.html" class="btn">Projects</a>
-	        <a href="Pages/About_me.html" class="btn">About me</a>
-	      }else{
-	        <a href="/" class="btn">Home</a>
-            <a href="Projects.html" class="btn">Projects</a>
-	        <a href="About_me.html" class="btn">About me</a>
-	      }
-	    }
-		btnChecker();
-	  </script>
+	  <a href="/" class="btn">Home</a>
+      <a href="Projects" class="btn">Projects</a>
+	  <a href="About_me" class="btn">About me</a>
     </header>
 
     <main id="content" class="main-content" role="main">
