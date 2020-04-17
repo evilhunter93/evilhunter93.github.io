@@ -5,7 +5,7 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-2">
-	  <a href="https://github.com/Flyttkartong/EDAN70-AI-Projekt" class="btn">To AI-Projekt</a>
+	  <a class="darkbtn" href="https://github.com/Flyttkartong/EDAN70-AI-Projekt">To AI-Projekt</a>
 	</div>
 	<div class="col-10">
 	  <h2>Implementing and using monte-carlo testing for the game Tak</h2>
@@ -14,6 +14,19 @@ layout: default
 	    <div class="tooltip"><a href="https://en.wikipedia.org/wiki/Tak_(game)">Tak</a>
 		  <span class="tooltiptext">Tak - Wikipedia</span>
 		</div>
+	  </p>
 	</div>
   </div>
+  <div class="row">
+    <div class="col-2">
+	  <a class="darkbtn" href="https://github.com/evilhunter93/EDAN40">To Haskell assignments</a>
+	</div>
+	<div class="col-10">
+	  <p> While being a collection of disparate tasks rather than a project, 
+	  I think it's important to note the different languages you've had experiences with,
+	  as having encountered several languages (and language types) gives a wider understanding of programming overall.
+	  This was a course I attended with a classmate and friend, and while the language at first felt quite unusual 
+	  (I am more experienced with object-oriented programming), it was also really fun to learn.
+	  In fact, part of the reason for the fun was that it was weird!
+	 </div>
 </div>
