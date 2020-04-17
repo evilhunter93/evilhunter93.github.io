@@ -22,7 +22,7 @@ layout: default
 	  <a class="darkbtn" href="https://github.com/evilhunter93/EDAN40">To Haskell assignments</a>
 	</div>
 	<div class="col-9">
-	  <h2>Programming Haskell
+	  <h2>Programming Haskell</h2>
 	  <p>
 	  While being a collection of disparate tasks rather than a project, 
 	  I think it's important to note the different languages you've had experiences with,
