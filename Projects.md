@@ -43,7 +43,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href"https://github.com/dat13kan/EDAN01">To Constraint programming assignments</a>
+	  <a class="darkbtn" href="https://github.com/dat13kan/EDAN01">To Constraint programming assignments</a>
 	</div>
 	<div class="col-9">
 	  <h2>Constraint programming</h2>
