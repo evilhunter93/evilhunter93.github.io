@@ -18,7 +18,7 @@ layout: default
 	  <p>This was a half-year project aimed at creating a basic implemeentation
 	  of the game 
 	    <a class="tooltip" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak
-		  <span class="tooltiptext">Tak - Wikipedia</span>
+		  <span>To Tak on Wikipedia</span>
 		</a>
 	  </p>
 	</div>
