@@ -14,7 +14,7 @@ layout: default
 	</div>
 	<div class="col-9">
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
-	  <p>Collaborators:Ludvig Rappe, Samuel 
+	  <p>Collaborators:Ludvig Rappe, Samuel </p>
 	  <p>This was a half-year project aimed at creating a basic implemeentation
 	  of the game 
 	    <a class="tooltip" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak
@@ -24,7 +24,6 @@ layout: default
 	  </p>
 	</div>
   </div>
-  
   <div class="row">
 	<div class="col-3">
 	  <a class="darkbtn" href="https://github.com/evilhunter93/MyEDA216">To KrustyKookies project on github<br>&rarr;</a>
