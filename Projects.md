@@ -43,7 +43,14 @@ layout: default
 	  <a class="darkbtn" href="https://github.com/evilhunter93/MyEDA216">To KrustyKookies project</a>
 	</div>
 	<div class="col-9">
-	  <h3>Making databases</h3>
+	  <h3>Making databases using sqlite</h2>
+	  <p>
+	    This was quite an interesting project! 
+		We were to work in teams with modeling and implementing a database based on the requirements of a client, KrustyKookies. 
+		As you might assume, KrustyKookies is not a real thing! 
+		Anyhow, one thing lead to another, the team split up and I ended up having to do the implementation on my own. 
+		It was quite demanding to do the implementation by myself, but things finally worked out!
+      </p>
 	</div>
   </div>
   <div class="row">
