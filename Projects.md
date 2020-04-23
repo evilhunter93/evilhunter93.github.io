@@ -14,12 +14,12 @@ layout: default
 	</div>
 	<div class="col-9">
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
-	  <p>Collaborators:Ludvig Rappe, Samuel </p>
+	  <p>Collaborators:Ludvig Rappe, Samuel Johansson</p>
 	  <p>This was a half-year project aimed at creating a basic implemeentation
 	  of the game 
-	    <a class="tooltip" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak
-		  <span>To Tak on Wikipedia</span>
-		</a>
+	    <div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
 		which was a fictional game 
 	  </p>
 	</div>
@@ -40,4 +40,12 @@ layout: default
       </p>
 	</div>
   </div>
+  <div class="row">
+    <div class="col-3">
+	  <a class="darkbtn" href="/">Download Holofire&darr;</a>
+	</div>
+	<div class="col-9">
+	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
+	  <p>Collaborators: </p>
+	  <p>Hi!</p>
 </div>
