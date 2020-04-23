@@ -14,6 +14,7 @@ layout: default
 	</div>
 	<div class="col-9">
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
+	  <p>Collaborators:Ludvig Rappe, Samuel 
 	  <p>This was a half-year project aimed at creating a basic implemeentation
 	  of the game 
 	    <a class="tooltip" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak
@@ -22,22 +23,7 @@ layout: default
 	  </p>
 	</div>
   </div>
-  <div class="row">
-    <div class="col-3">
-	  <a class="darkbtn" href="https://github.com/evilhunter93/EDAN40">To Haskell assignments on github<br>&rarr;</a>
-	</div>
-	<div class="col-9">
-	  <h3>Programming Haskell</h3>
-	  <p>
-	  While being a collection of disparate tasks rather than a project, 
-	  I think it's important to note the different languages you've had experiences with,
-	  as having encountered several languages (and language types) gives a wider understanding of programming overall.
-	  This was a course I attended with a classmate and friend, and while the language at first felt quite unusual 
-	  (I am more experienced with object-oriented programming), it was also really fun to learn.
-	  In fact, part of the reason for the fun was that it was weird!
-	  </p>
-	</div>
-  </div>
+  
   <div class="row">
 	<div class="col-3">
 	  <a class="darkbtn" href="https://github.com/evilhunter93/MyEDA216">To KrustyKookies project on github<br>&rarr;</a>
@@ -52,21 +38,5 @@ layout: default
 		It was quite demanding to do the implementation by myself, but things finally worked out!
       </p>
 	</div>
-  </div>
-  <div class="row">
-    <div class="col-3">
-	  <a class="darkbtn" href="https://github.com/dat13kan/EDAN01">To Constraint programming assignments on github<br>&rarr;</a>
-	</div>
-	<div class="col-9">
-	  <h3>Constraint programming</h3>
-	</div>
-  </div>
-  <div class="row">
-    <div class="col-3">
-      <a class="darkbtn" href="https://github.com/dat13kan/EDAN26">To multicore programming assignments on github<br>&rarr;</a>
-    </div>
-    <div class="col-9">
-      <h3>Multicore programming</h3>
-    </div>
   </div>
 </div>
