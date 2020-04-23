@@ -17,8 +17,8 @@ layout: default
 	  <p>Collaborators:Ludvig Rappe, Samuel Johansson</p>
 	  <p>This was a half-year project aimed at creating a basic implemeentation
 	  of the game 
-	    <div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
+	    <div class="tt">Hover over me
+  <span class="ttt">Tooltip text</span>
 </div>
 		which was a fictional game 
 	  </p>

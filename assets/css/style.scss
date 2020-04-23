@@ -3,13 +3,13 @@
 
 @import 'jekyll-theme-cayman';
 
-.tooltip {
+.tt {
   position: relative;
   display: inline-block;
   border-bottom: 1px dotted black;
 }
 
-.tooltip .tooltiptext {
+.tt .ttt {
   visibility: hidden;
   width: 120px;
   background-color: black;
@@ -24,7 +24,7 @@
   margin-left: -60px;
 }
 
-.tooltip .tooltiptext::after {
+.tt .ttt::after {
   content: "";
   position: absolute;
   top: 100%;
@@ -35,7 +35,7 @@
   border-color: black transparent transparent transparent;
 }
 
-.tooltip:hover .tooltiptext {
+.tt:hover .ttt {
   visibility: visible;
 }
 
