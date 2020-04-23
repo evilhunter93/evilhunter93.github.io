@@ -10,7 +10,7 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="https://github.com/Flyttkartong/EDAN70-AI-Projekt">To AI-Projekt</a>
+	  <a class="darkbtn" href="https://github.com/Flyttkartong/EDAN70-AI-Projekt">To AI-Projekt on github<br>&rarr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
@@ -24,7 +24,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="https://github.com/evilhunter93/EDAN40">To Haskell assignments</a>
+	  <a class="darkbtn" href="https://github.com/evilhunter93/EDAN40">To Haskell assignments on github<br>&rarr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Programming Haskell</h3>
@@ -40,10 +40,10 @@ layout: default
   </div>
   <div class="row">
 	<div class="col-3">
-	  <a class="darkbtn" href="https://github.com/evilhunter93/MyEDA216">To KrustyKookies project</a>
+	  <a class="darkbtn" href="https://github.com/evilhunter93/MyEDA216">To KrustyKookies project on github<br>&rarr;</a>
 	</div>
 	<div class="col-9">
-	  <h3>Making databases using sqlite</h2>
+	  <h3>Making databases using sqlite</h3>
 	  <p>
 	    This was quite an interesting project! 
 		We were to work in teams with modeling and implementing a database based on the requirements of a client, KrustyKookies. 
@@ -55,7 +55,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="https://github.com/dat13kan/EDAN01">To Constraint programming assignments</a>
+	  <a class="darkbtn" href="https://github.com/dat13kan/EDAN01">To Constraint programming assignments on github<br>&rarr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Constraint programming</h3>
@@ -63,7 +63,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-      <a class="darkbtn" href="https://github.com/dat13kan/EDAN26">To multicore programming assignments</a>
+      <a class="darkbtn" href="https://github.com/dat13kan/EDAN26">To multicore programming assignments on github<br>&rarr;</a>
     </div>
     <div class="col-9">
       <h3>Multicore programming</h3>
