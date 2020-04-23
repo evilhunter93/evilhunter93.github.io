@@ -2,18 +2,23 @@
 layout: default
 ---
 <h1>My work</h1>
+<p>
+  On this page I will list various projects/assignments I've completed, be it in a workplace, in class or during my free time.
+  Each project assignment will be accompanied by a description giving some minor details about my experience with the project, as well as why I deem it to be important to include in this page.
+</p>
+<h2>School assignments</h2>
 <div class="container">
   <div class="row">
     <div class="col-3">
 	  <a class="darkbtn" href="https://github.com/Flyttkartong/EDAN70-AI-Projekt">To AI-Projekt</a>
 	</div>
 	<div class="col-9">
-	  <h2>Implementing and using monte-carlo testing for the game Tak</h2>
+	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
 	  <p>This was a half-year project aimed at creating a basic implemeentation
 	  of the game 
-	    <div class="tooltip"><a href="https://en.wikipedia.org/wiki/Tak_(game)">Tak</a>
+	    <a class="tooltip" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak
 		  <span class="tooltiptext">Tak - Wikipedia</span>
-		</div>
+		</a>
 	  </p>
 	</div>
   </div>
@@ -22,7 +27,7 @@ layout: default
 	  <a class="darkbtn" href="https://github.com/evilhunter93/EDAN40">To Haskell assignments</a>
 	</div>
 	<div class="col-9">
-	  <h2>Programming Haskell</h2>
+	  <h3>Programming Haskell</h3>
 	  <p>
 	  While being a collection of disparate tasks rather than a project, 
 	  I think it's important to note the different languages you've had experiences with,
@@ -38,7 +43,7 @@ layout: default
 	  <a class="darkbtn" href="https://github.com/evilhunter93/MyEDA216">To KrustyKookies project</a>
 	</div>
 	<div class="col-9">
-	  <h2>Making databases</h2>
+	  <h3>Making databases</h3>
 	</div>
   </div>
   <div class="row">
@@ -46,7 +51,7 @@ layout: default
 	  <a class="darkbtn" href="https://github.com/dat13kan/EDAN01">To Constraint programming assignments</a>
 	</div>
 	<div class="col-9">
-	  <h2>Constraint programming</h2>
+	  <h3>Constraint programming</h3>
 	</div>
   </div>
   <div class="row">
@@ -54,7 +59,7 @@ layout: default
       <a class="darkbtn" href="https://github.com/dat13kan/EDAN26">To multicore programming assignments</a>
     </div>
     <div class="col-9">
-      <h2>Multicore programming</h2>
+      <h3>Multicore programming</h3>
     </div>
   </div>
 </div>
