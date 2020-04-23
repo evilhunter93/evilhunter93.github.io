@@ -20,6 +20,7 @@ layout: default
 	    <a class="tooltip" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak
 		  <span>To Tak on Wikipedia</span>
 		</a>
+		which was a fictional game 
 	  </p>
 	</div>
   </div>
@@ -30,6 +31,7 @@ layout: default
 	</div>
 	<div class="col-9">
 	  <h3>Making databases using sqlite</h3>
+	  <p>Collaborators: </p>
 	  <p>
 	    This was quite an interesting project! 
 		We were to work in teams with modeling and implementing a database based on the requirements of a client, KrustyKookies. 
