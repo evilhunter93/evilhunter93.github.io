@@ -16,9 +16,9 @@ layout: default
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
 	  <p>Collaborators:Ludvig Rappe, Samuel Johansson</p>
 	  <p>This was a half-year project aimed at creating a basic implementation
-	  of the game <a class="tt">Tak <span class="ttt">To Tak on Wikipedia</span></a>
-		which is a 3-dimensional boardgame, where the board consists of *n &ast; n* tiles, and gamepieces
-		can be stacked on top of each other. 
+	  of the game <a class="tt">Tak <span class="ttt">To Tak on Wikipedia</span></a>, as well as
+	  a learning ai, which should be able to utilize several learning algorithms to get better at playing Tak.
+	  The learning algorithms used were monte-carlo and 
 	  </p>
 	</div>
   </div>
@@ -50,8 +50,19 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="/">Download big-brother 2000</a>
+	  <a class="darkbtn" href="/">Download big-brother 2000<br>&darr;</a>
 	</div>
 	<div class="col-9">
-	  <h3>
+	  <h3>Making software for connecting to and operating real-time cameras</h3>
+	</div>
+  </div>
+  <div class="row">
+    <div class="col-3">
+	  <a class="darkbtn" href="/">Download bicycle-garage solution</a>
+	</div>
+	<div class="col-9>
+	  <h3>A large-scaled project for a bicycle-garage</h3>
+	  <p>Yo</p>
+	</div>
+  </div>
 </div>
