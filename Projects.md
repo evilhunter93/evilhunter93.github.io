@@ -59,7 +59,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="/">Download bicycle-garage solution</a>
+	  <a class="darkbtn" href="/">Download bicycle-garage solution<br>&darr;</a>
 	</div>
 	<div class="col-9>
 	  <h3>A large-scaled project for a bicycle-garage</h3>
