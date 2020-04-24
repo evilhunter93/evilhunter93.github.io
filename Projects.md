@@ -18,7 +18,8 @@ layout: default
 	  <p>This was a half-year project aimed at creating a basic implementation
 	  of the game <a class="tt">Tak <span class="ttt">To Tak on Wikipedia</span></a>, as well as
 	  a learning ai, which should be able to utilize several learning algorithms to get better at playing Tak.
-	  The learning algorithms used were monte-carlo and 
+	  The learning algorithms used were monte-carlo and min-max evaluation 
+	  (I take the best option, the opponent will take for me the worst option).
 	  </p>
 	</div>
   </div>
