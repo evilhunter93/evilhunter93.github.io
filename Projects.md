@@ -15,12 +15,10 @@ layout: default
 	<div class="col-9">
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
 	  <p>Collaborators:Ludvig Rappe, Samuel Johansson</p>
-	  <p>This was a half-year project aimed at creating a basic implemeentation
-	  of the game 
-	    <div class="tt">Hover over me
-  <span class="ttt">Tooltip text</span>
-</div>
-		which was a fictional game 
+	  <p>This was a half-year project aimed at creating a basic implementation
+	  of the game <a class="tt">Tak <span class="ttt">To Tak on Wikipedia</span></a>
+		which is a 3-dimensional boardgame, where the board consists of *n &ast; n* tiles, and gamepieces
+		can be stacked on top of each other. 
 	  </p>
 	</div>
   </div>
@@ -42,10 +40,18 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="/">Download Holofire&darr;</a>
+	  <a class="darkbtn" href="/">Download Holofire<br>&darr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
-	  <p>Collaborators: </p>
+	  <p>Collaborators: Rasmus Hallevåg, </p>
 	  <p>Hi!</p>
+	</div>
+  </div>
+  <div class="row">
+    <div class="col-3">
+	  <a class="darkbtn" href="/">Download big-brother 2000</a>
+	</div>
+	<div class="col-9">
+	  <h3>
 </div>
