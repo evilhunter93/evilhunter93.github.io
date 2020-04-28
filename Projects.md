@@ -53,10 +53,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <video width="200" height="300" controls>
-	    <source src="/assets/videos/HoloFire.mp4" type="video/mp4">
-	    Your browser does not support the video tag.
-	  </video>
+	  <a class="darkbtn" href="/assets/video/HoloFire.mp4">Donwload Holofire.mp4</a>
 	</div>
 	<div class="col-9">
 	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
@@ -64,7 +61,7 @@ layout: default
 	  <p>Period: April 18th 2018 to May 31st 2018</p>
 	  <p>This was an awesome project, performed over the span of four months. The assignment was to create an application
 	  which took extensive use of virtual/augmented reality. What we chose to do was as you might have guessed a fire-fighting simulator
-	  using the Hololens. The implementation was realized in Unity.</p>
+	  using the Hololens. The implementation was realized in Unity. To the left you'll find a demonstration of the simulator.</p>
 	  <p>
 	  What I took away from this project was a lot more knowledge about working in Unity, 
 	  and also working with a component that has less than optimal documentation. 
