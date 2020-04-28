@@ -53,7 +53,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <video controls>
+	  <video width="200" controls>
 	    <source src="/assets/videos/Holofire.mp4" type="video/mp4">
 	    Your browser does not support the video tag.
 	  </video>
