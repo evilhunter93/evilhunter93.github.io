@@ -41,29 +41,13 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="/">Download Holofire<br>&darr;</a>
+	  <a class="darkbtn" href="/assets/project_files/Holofire.rar">Download Holofire.rar<br>&darr;</a>
+	  <a class="darkbtn"href="/assets/project_files/Holofire.zip">Download Holofire.zip<br>&darr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
-	  <p>Collaborators: Rasmus Hallevåg, </p>
+	  <p>Collaborators: Rasmus Hallevåg, Alexander Christerson Westerberg</p>
 	  <p>Hi!</p>
-	</div>
-  </div>
-  <div class="row">
-    <div class="col-3">
-	  <a class="darkbtn" href="/">Download big-brother 2000<br>&darr;</a>
-	</div>
-	<div class="col-9">
-	  <h3>Making software for connecting to and operating real-time cameras</h3>
-	</div>
-  </div>
-  <div class="row">
-    <div class="col-3">
-	  <a class="darkbtn" href="/">Download bicycle-garage solution<br>&darr;</a>
-	</div>
-	<div class="col-9">
-	  <h3>A large-scaled project for a bicycle-garage</h3>
-	  <p>Yo</p>
 	</div>
   </div>
 </div>
