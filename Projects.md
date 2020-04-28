@@ -16,8 +16,9 @@ layout: default
 	<div class="col-9">
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
 	  <p>Collaborators: Ludvig Rappe, Samuel Johansson</p>
-	  <p>Period: March 23rd 2017 to June 30th, 2017 
-	  <p>This was a half-year project aimed at creating a basic implementation
+	  <p>Period: March 23rd 2017 to June 30th, 2017 </p>
+	  <p>
+	  This was a half-year project aimed at creating a basic implementation
 	  of the game <a class="tt" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak <span class="ttt">To Tak on Wikipedia</span></a>, as well as
 	  a learning ai, which should be able to utilize several learning algorithms to get better at playing Tak.
 	  The learning algorithms used were monte-carlo and min-max evaluation 
@@ -36,7 +37,7 @@ layout: default
 	<div class="col-9">
 	  <h3>Making databases using sqlite</h3>
 	  <p>Collaborators:<br>Modeling:Sebastian Karabeleski, Lisa Claesson<br>Implementation:None</p>
-	  <p>Period: February 19th 2017 to May 5th 2017
+	  <p>Period: February 19th 2017 to May 5th 2017</p>
 	  <p>
 	    This was quite an interesting project! 
 		We were to work in teams with modeling and implementing a database based on the requirements of a client, KrustyKookies. 
@@ -60,7 +61,7 @@ layout: default
 	<div class="col-9">
 	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
 	  <p>Collaborators: Rasmus Hallevåg, Alexander Christerson Westerberg</p>
-	  <p>Period: April 18th 2018 to May 31st 2018
+	  <p>Period: April 18th 2018 to May 31st 2018</p>
 	  <p>This was an awesome project, performed over the span of four months. The assignment was to create an application
 	  which took extensive use of virtual/augmented reality. What we chose to do was as you might have guessed a fire-fighting simulator
 	  using the Hololens. The implementation was realized in Unity.</p>
