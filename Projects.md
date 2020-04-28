@@ -10,11 +10,11 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="https://github.com/Flyttkartong/EDAN70-AI-Projekt">To AI-Projekt on github<br>&rarr;</a>
+	  <a class="darkbtn" href="https://github.com/evilhunter93/EDAN70-AI-Projekt">To AI-Projekt on github<br>&rarr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Implementing and using monte-carlo testing for the game Tak</h3>
-	  <p>Collaborators:Ludvig Rappe, Samuel Johansson</p>
+	  <p>Collaborators: Ludvig Rappe, Samuel Johansson</p>
 	  <p>This was a half-year project aimed at creating a basic implementation
 	  of the game <a class="tt" href="https://en.wikipedia.org/wiki/Tak_(game)">Tak <span class="ttt">To Tak on Wikipedia</span></a>, as well as
 	  a learning ai, which should be able to utilize several learning algorithms to get better at playing Tak.
@@ -49,13 +49,17 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="/assets/project_files/Holofire.rar">Download Holofire.rar<br>&darr;</a>
-	  <a class="darkbtn" href="/assets/project_files/Holofire.zip">Download Holofire.zip<br>&darr;</a>
+	  <video controls>
+	    <source src="/assets/videos/Holofire.mp4" type="video/mp4">
+	    Your browser does not support the video tag.
+	  </video>
 	</div>
 	<div class="col-9">
 	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
 	  <p>Collaborators: Rasmus Hallevåg, Alexander Christerson Westerberg</p>
-	  <p>Hi!</p>
+	  <p>This was an awesome project, performed over the span of four months. The assignment was to create an application
+	  which took extensive use of virtual/augmented reality. What we chose to do was as you might have guessed a fire-fighting simulator
+	  using the Hololens. The implementation was realized in Unity.</p>
 	</div>
   </div>
 </div>
