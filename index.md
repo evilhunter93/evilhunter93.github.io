@@ -3,12 +3,14 @@ layout: default
 ---
 <div class="container">
   <div class="row">
-    <div class="col-9">
+    <div class="col">
       <h1>
         Hello World!
       </h1>
     </div>
-    <div class="col-3">
+  </div>
+  <div class="row">
+    <div class="col">
 	  <img src="/assets/images/profpic.png" alt="Me! =D">
 	</div>
   </div>
