@@ -53,7 +53,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="/assets/video/HoloFire.mp4">Donwload Holofire.mp4</a>
+	  <a class="darkbtn" href="/assets/video/HoloFire.mp4">Donwload Holofire.mp4<br>&darr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
