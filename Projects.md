@@ -53,7 +53,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col-3">
-	  <a class="darkbtn" href="/assets/videos/HoloFire.mp4">Download Holofire.mp4<br>&darr;</a>
+	  <a class="darkbtn" href="/assets/videos/HoloFire.mp4" download>Download Holofire.mp4<br>&darr;</a>
 	</div>
 	<div class="col-9">
 	  <h3>Creating a fire-extinguisher simulator with Hololens</h3>
@@ -73,7 +73,7 @@ layout: default
   <div class="row">
 	<div class="col-3">
 	  <a class="darkbtn" href="/assets/documents/Data-driven Deployment of Program Analysis Fixes.pdf">
-	    Download Masters Thesis: Data-driven Deployment of Program Analysis Fixes<br>&darr;
+	    View Masters Thesis: Data-driven Deployment of Program Analysis Fixes<br>&rarr;
 	  </a>
 	  <a class="darkbtn" href="https://gitlab.com/lund-university/mean">Visit the MEAN Repository<br>&rarr;</a>
 	</div>
