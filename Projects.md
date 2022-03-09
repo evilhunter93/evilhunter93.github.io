@@ -73,7 +73,7 @@ layout: default
   <div class="row">
 	<div class="col-3">
 	  <a class="darkbtn" href="/assets/documents/Data-driven Deployment of Program Analysis Fixes.pdf">
-	    Download Masters Thesis:Data-driven Deployment of Program Analysis Fixes<br>&darr;
+	    Download Masters Thesis: Data-driven Deployment of Program Analysis Fixes<br>&darr;
 	  </a>
 	  <a class="darkbtn" href="https://gitlab.com/lund-university/mean">Visit the MEAN Repository<br>&rarr;</a>
 	</div>
