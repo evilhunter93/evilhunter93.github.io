@@ -103,8 +103,8 @@ layout: default
 		as well as an understanding of how these more complex projects may be approached in the future.
 		On top of those main points, you could of course also add that I got some experience in using services
 		that I normally don't use, such as 
-		<a class="tt" href="https://www.jenkins.io/">Jenkins<span class="ttt">To Jenkins Homepage<\span><\a> and 
-		<a class="tt" href="https://www.rabbitmq.com/">RabbitMQ<span class="ttt">To RabbitMQ:s homepage<\span><\a>.
+		<a class="tt" href="https://www.jenkins.io/">Jenkins<span class="ttt">To Jenkins Homepage</span></a> and 
+		<a class="tt" href="https://www.rabbitmq.com/">RabbitMQ<span class="ttt">To RabbitMQ:s homepage</span></a>.
 	  </p>
 	</div>
   </div>
