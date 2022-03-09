@@ -77,7 +77,7 @@ layout: default
 	  </a>
 	  <a class="darkbtn" href="https://gitlab.com/lund-university/mean">Visit the MEAN Repository<br>&rarr;</a>
 	</div>
-	<div class="col-9>
+	<div class="col-9">
 	  <h3>Master Thesis: Adding fix suggestions to a code meta-analyzer</h3>
 	  <p>Collaborators: Mohammad Abo Al Anein</p>
 	  <p>Period:February 24th 2021 to October 19th 2021</p>
